@@ -1,3 +1,3 @@
 # bubblepop
-A js programm, which makes a lot of bubbles.
-Please run index.html
+A js program, which makes a lot of bubbles.
+Please run bubblepop.html
