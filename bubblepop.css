@@ -1,0 +1,36 @@
+body {
+	background-color: hotpink;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+label {
+	color: #100;
+	font-weight: bold;
+}
+
+canvas {
+	background: rgba(0,0,0,0.3);
+	border: 1px solid #888;
+}
+
+#vidDiv {
+	z-index: -1;
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+}
+
+video {
+	vertical-align: middle;
+	width: 100%;
+}
+
+div#content {
+	right: 50%;
+	bottom: 50%;
+	transform: translate(50%,50%);
+	position: absolute;
+}
